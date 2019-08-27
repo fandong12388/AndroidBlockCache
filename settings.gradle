@@ -1,0 +1,2 @@
+include ':Sample', ':block-cache'
+rootProject.name='AndroidBlockCache'

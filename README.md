@@ -1,4 +1,6 @@
-# Android高性能安全的数据持久化缓存框架AndroidBlockCache
+# AndroidBlockCache
+高性能安全的数据持久化缓存框架
+[![](https://jitpack.io/v/fandong12388/AndroidBlockCache.svg)](https://jitpack.io/#fandong12388/AndroidBlockCache)
 ## 一、背景
 
 #### 1、背景介绍

@@ -31,7 +31,8 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation project(':block-cache')
+    //implementation project(':block-cache')
+    implementation 'com.github.fandong12388:AndroidBlockCache:1.0.1'
     implementation 'com.google.code.gson:gson:2.8.5'
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'

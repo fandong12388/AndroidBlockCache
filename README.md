@@ -1,5 +1,5 @@
 # AndroidBlockCache
-高性能安全的数据持久化缓存框架<br/><br/><br/>
+高性能安全的数据持久化缓存框架<br/><br/>
 [![](https://jitpack.io/v/fandong12388/AndroidBlockCache.svg)](https://jitpack.io/#fandong12388/AndroidBlockCache)
 ## 一、背景
 
@@ -27,7 +27,7 @@ allprojects {
 
 ```gradle
 
-implementation 'com.block:cache:1.0.0'
+implementation 'com.github.fandong12388:AndroidBlockCache:1.0.1'
 
 ```
 
